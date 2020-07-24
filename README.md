@@ -20,18 +20,21 @@
 ### Work Profile :-
 
 * **Founder and CMO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**
-* **Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
-* **Member of Google Assistant Developer Community**
-* **Internshala Student Partner 16 and 18 @ INTERNSHALA**
+* **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
+* **Internshala Student Partner 14 @ INTERNSHALA**
 
+### Education :-
+
+* **Pursuing B.tech on the domain of CSE 🖥 @ [Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)
 
 <!--
 **Rishi-121/Rishi-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-**A student with zeal to achieve the heights with regular hard work and self-improvement. 
-Proficient in various programming languages, android development, web development, software development, and communication skills.
+**A student with zeal to achieve success by his regular hard work and self-improvement.
+My curiosity to learn something makes me dream big.
+Proficient in various programming languages, web development, photoshop skills, and content writing.
 Committed to strengthening my abilities and serving as a collaborative team person.**
 <!--
 - 🔭 I’m currently working on ...
@@ -42,18 +45,14 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 💬 Ask me about :
      * **How is my life going? 😉**
      * **Python || Java || C/C++**
-     * **Mobile App Development || Flutter || Front-End Development**
+     * **Full Stack Web Development**
 - 📫 How to reach me: 
      *  [![Linkedin Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrushikesh-das-468101171/)](https://www.linkedin.com/in/hrushikesh-das-468101171/)
      * [![Instagram Badge](https://img.shields.io/badge/-Hrushikesh-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/hrushikesh_das_official/)](https://www.instagram.com/hrushikesh_das_official/)
      * [![Facebook Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hrushikesh.das.566/)](https://www.facebook.com/hrushikesh.das.566/)
      * [![Gmail Badge](https://img.shields.io/badge/-dashrushikesh1121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashrushikesh1121@gmail.com)](mailto:dashrushikesh1121@gmail.com)
 - 😄 Pronouns: 
-     * **An illusive coder**
-     
-- ⚡ Fun fact: 
-     * **A living sarcastic soul with punches of humor 😂**
-     * **Wicket-Keeper Batsman waiting to be in the field 🏏**
+     * **An Positive Thinker**
     
 <a href="https://github.com/Rishi-121/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=dark&hide_langs_below=1" />
