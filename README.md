@@ -32,10 +32,13 @@
 
 Here are some ideas to get you started:
 -->
+### About Me :-
+
 **A student with zeal to achieve success by his regular hard work and self-improvement.
 My curiosity to learn something makes me dream big.
 Proficient in various programming languages, web development, photoshop skills, and content writing.
 Committed to strengthening my abilities and serving as a collaborative team person.**
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -48,7 +51,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **Full Stack Web Development**
 - 📫 How to reach me: 
      *  [![Linkedin Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrushikesh-das-468101171/)](https://www.linkedin.com/in/hrushikesh-das-468101171/)
-     * [![Instagram Badge](https://img.shields.io/badge/-Hrushikesh-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hrushikesh_das_official/)](https://www.instagram.com/hrushikesh_das_official/)
+     * [![Instagram Badge](https://img.shields.io/badge/-Hrushikesh-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hrushikesh_das_official/)](https://www.instagram.com/hrushikesh_das_official/)
      * [![Facebook Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hrushikesh.das.566/)](https://www.facebook.com/hrushikesh.das.566/)
      * [![Gmail Badge](https://img.shields.io/badge/-dashrushikesh1121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashrushikesh1121@gmail.com)](mailto:dashrushikesh1121@gmail.com)
 - 😄 Pronouns: 
