@@ -6,7 +6,7 @@
 <a href="https://github.com/Rishi-121/">
   <img align="left" alt="Hrushikesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="">
+<a href="#">
   <img align="left" alt="Hrushikesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/hrushikesh_das_official/">
@@ -25,7 +25,7 @@
 
 ### Education :-
 
-* **Pursuing B.tech on the domain of CSE 🖥 @ [Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)
+* **Pursuing B.tech on the domain of CSE 🖥 @ [Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)**
 
 <!--
 **Rishi-121/Rishi-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +48,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **Full Stack Web Development**
 - 📫 How to reach me: 
      *  [![Linkedin Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrushikesh-das-468101171/)](https://www.linkedin.com/in/hrushikesh-das-468101171/)
-     * [![Instagram Badge](https://img.shields.io/badge/-Hrushikesh-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/hrushikesh_das_official/)](https://www.instagram.com/hrushikesh_das_official/)
+     * [![Instagram Badge](https://img.shields.io/badge/-Hrushikesh-?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hrushikesh_das_official/)](https://www.instagram.com/hrushikesh_das_official/)
      * [![Facebook Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hrushikesh.das.566/)](https://www.facebook.com/hrushikesh.das.566/)
      * [![Gmail Badge](https://img.shields.io/badge/-dashrushikesh1121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashrushikesh1121@gmail.com)](mailto:dashrushikesh1121@gmail.com)
 - 😄 Pronouns: 
