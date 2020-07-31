@@ -19,7 +19,7 @@
 
 ### Work Profile :-
 
-* **Founder and CMO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**
+<!--* **Founder and CMO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**-->
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
 * **Internshala Student Partner 14 @ INTERNSHALA**
 
