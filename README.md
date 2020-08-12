@@ -50,6 +50,8 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **Python || Java || C/C++**
      * **Full Stack Web Development**
      
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+     
 - 📫 How to reach me: 
      *  [![Linkedin Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrushikesh-das-468101171/)](https://www.linkedin.com/in/hrushikesh-das-468101171/)
      * [![Instagram Badge](https://img.shields.io/badge/-Hrushikesh-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hrushikesh_das_official/)](https://www.instagram.com/hrushikesh_das_official/)
