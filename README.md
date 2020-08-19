@@ -1,5 +1,5 @@
 # Hey !! I am HRUSHIKESH DAS 🤵
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Views&color=blue&style=plastic" alt="Hrushilesh" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Views&color=blue&style=plastic" alt="Hrushilesh" /> </p>-->
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
   <img align="left" alt="Hrushikesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
