@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/hrushikesh.das.566/">
   <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.facebook.com/hrushikesh.das.566/">
+<a href="https://api.whatsapp.com/send?phone=7606810227&amp;text=I%20have%20a great idea,%20which%20I%20want%20to discuss with you.%20%20%20/">
   <img align="left" alt="Hrushikesh's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
