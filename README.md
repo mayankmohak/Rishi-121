@@ -17,7 +17,7 @@
 </a>
 <br>
 
-### Work Profile :-
+### Work Experiences :-
 
 <!--* **Founder and CMO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**-->
 * **Web Developer Intern at [The Renal Project](https://www.therenalproject.com/)**
