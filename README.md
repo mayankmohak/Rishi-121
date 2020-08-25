@@ -1,10 +1,10 @@
 # Hey !! I am HRUSHIKESH DAS 🤵
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Views&color=blue&style=plastic" alt="Hrushilesh" /> </p>-->
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
-  <img align="left" alt="Hrushikesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hrushikesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Rishi-121/">
-  <img align="left" alt="Hrushikesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Hrushikesh's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/Hrushikesh_Das/">
   <img align="left" alt="Hrushikesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -14,6 +14,9 @@
 </a>
 <a href="https://www.facebook.com/hrushikesh.das.566/">
   <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.facebook.com/hrushikesh.das.566/">
+  <img align="left" alt="Hrushikesh's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
 
