@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### About Me :-
 
 **A student with zeal to achieve success by his regular hard work and self-improvement.
-Proficient in various programming languages, web development, photoshop skills, and content writing.
+Proficient in various programming languages, Full Stack Web Development, Photoshop Skills, and content writing.
 Committed to strengthening my abilities and serving as a collaborative team person.**
 
 <!--
