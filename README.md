@@ -19,8 +19,8 @@
 
 ### Work Experiences :-
 
-<!--* **Founder and CMO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**-->
-* **Mentor of Hackathon @[Hack the Mountain's](https://www.hackthemountain.tech/)**
+
+* **Mentor of the Hackathon @[Hack the Mountain's](https://www.hackthemountain.tech/)**
 * **Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
 * **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
