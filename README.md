@@ -20,14 +20,15 @@
 ### Work Experiences :-
 
 <!--* **Founder and CMO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**-->
-* **Web Developer Intern at [The Renal Project](https://www.therenalproject.com/)**
-* **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project at LetsUpgrade**
+* **Mentor of Hackathon @[Hack the Mountain's](https://www.hackthemountain.tech/)
+* **Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
+* **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
-* **Former Internshala Student Partner 14 @ INTERNSHALA**
+* **Former Internshala Student Partner 14 @INTERNSHALA**
 
 ### Education :-
 
-* **Pursuing B.tech on the domain of CSE 🖥 @ [Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)**
+* **Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)**
 
 <!--
 **Rishi-121/Rishi-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
