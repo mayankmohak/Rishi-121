@@ -20,7 +20,7 @@
 ### Work Experiences :-
 
 
-* **Mentor of the Hackathon @[Hack the Mountain's](https://www.hackthemountain.tech/)**
+* **Mentor of the [Hack the Mountain's](https://www.hackthemountain.tech/) Hackathon**
 * **Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
 * **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
