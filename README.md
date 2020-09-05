@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### About Me :-
 
 **A student with zeal to achieve success by his regular hard work and self-improvement.
-Proficient in various programming languages, Full Stack Web Development, Photoshop Skills, and content writing.
+Proficient in various Programming Languages, Full Stack Web Development, Photoshop Skills, and content writing.
 Committed to strengthening my abilities and serving as a collaborative team person.**
 
 <!--
@@ -52,7 +52,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 
 - 💬 Ask me about :
      * **How is my life going? 😉**
-     * **Python || Java || C/C++**
+     * **Python || Java || JavaScript || C/C++**
      * **Full Stack Web Development**
      
 - 📫 How to reach me: 
