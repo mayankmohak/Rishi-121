@@ -52,7 +52,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 😊 I’m looking for help with **Getting Internships**
 - 🤝 I’m looking to collaborate on **any live project**
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />{:class="img-responsive"}
 
 - 💬 Ask me about :
      * **How is my life going? 😉**
