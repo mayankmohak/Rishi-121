@@ -65,7 +65,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **A Night Coder 👨‍💻**
      
 <a href="https://github.com/Rishi-121/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical&langs_count=8" />
 </a>
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical" alt="Hrushikesh's github stats"/>
