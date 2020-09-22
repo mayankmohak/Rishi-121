@@ -22,7 +22,7 @@
 * **Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
 * **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
-* **Former Internshala Student Partner 14 @INTERNSHALA**
+* **Former Internshala Student Partner 14 @Internshala**
 
 ### Education :-
 
