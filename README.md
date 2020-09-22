@@ -1,4 +1,5 @@
 # Hey !! I am HRUSHIKESH DAS 🤵
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Views&color=blue&style=plastic" alt="Hrushilesh" /> </p>-->
 
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
@@ -16,7 +17,7 @@
 <a href="https://www.facebook.com/hrushikesh.das.566/">
   <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rishi-121)
+<p align="right">[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rishi-121)</p>
 <br>
 
 ### Work Experiences :-
