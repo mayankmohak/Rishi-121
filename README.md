@@ -17,6 +17,9 @@
 <a href="https://www.facebook.com/hrushikesh.das.566/">
   <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://github.com/Rishi-121/">
+ <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Hrushikesh's github stats"/>
+</a>
 <br>
 
 ### Work Experiences :-
@@ -65,7 +68,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **A Night Coder 👨‍💻**
      
 <a href="https://github.com/Rishi-121/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
 </a>
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical" alt="Hrushikesh's github stats"/>
