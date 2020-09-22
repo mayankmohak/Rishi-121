@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/hrushikesh.das.566/">
   <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rishi-121/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rishi-121/)
 <br>
 
 ### Work Experiences :-
