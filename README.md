@@ -19,6 +19,8 @@
 </a>
 <br>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### Work Experiences :-
 
 * **Mentor of the [Hack the Mountain's](https://www.hackthemountain.tech/) Hackathon**
