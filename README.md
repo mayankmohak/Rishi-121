@@ -64,8 +64,9 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 😄 Pronouns: 
      * **A Night Coder 👨‍💻**
     
+    (https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
 <a href="https://github.com/Rishi-121/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121" />
 </a>
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical" alt="Hrushikesh's github stats"/>
