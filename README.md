@@ -1,4 +1,5 @@
-# Hey !! I am HRUSHIKESH DAS 🤵
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ !! I am HRUSHIKESH DAS 🤵
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Views&color=blue&style=plastic" alt="Hrushilesh" /> </p>-->
 
