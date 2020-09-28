@@ -11,8 +11,8 @@
 </a>
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
+ <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Visitors&color=blue&style=plastic" alt="Hrushilesh" /> 
 </a>
-<img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Visitors&color=blue&style=plastic" alt="Hrushilesh" /> 
 <br>
 
 ### Work Experiences :-
