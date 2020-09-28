@@ -10,7 +10,7 @@
   <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://github.com/Rishi-121/">
- <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
+ <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/> <br>
  <img src="https://komarev.com/ghpvc/?username=Rishi-121&label=Visitors&color=blue&style=plastic" alt="Hrushilesh" /> 
 </a>
 <br>
