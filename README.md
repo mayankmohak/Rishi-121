@@ -12,8 +12,7 @@
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishi-121.Rishi-121)
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=Rishi-121.Rishi-121" alt="visitor badge"/>
 <br>
 
 ### Work Experiences :-
