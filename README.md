@@ -59,7 +59,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * [![Facebook Badge](https://img.shields.io/badge/-Hrushikesh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hrushikesh.das.566/)](https://www.facebook.com/hrushikesh.das.566/)
      * [![Gmail Badge](https://img.shields.io/badge/-dashrushikesh1121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashrushikesh1121@gmail.com)](mailto:dashrushikesh1121@gmail.com)
 - 😄 Pronouns: 
-     * **A Night Coder 👨‍💻**
+     * **A Night Coder 🐱‍👤**
      
 <a href="https://github.com/Rishi-121/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
