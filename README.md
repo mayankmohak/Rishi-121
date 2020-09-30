@@ -49,6 +49,7 @@
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL Database"></code>
 <code><img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git"></code>
 <code><img src="https://cdn.svgporn.com/logos/xampp.svg" height="30" alt="XAMPP"></code>
+<code><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30" alt="Visual Studio Code"></code>
 
 <img align="right" height="50%" width="50%" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
     
