@@ -46,7 +46,8 @@
 - 😄 Pronouns: 
      * **A Night Coder 🐱‍👤**
 
-- 🤝 I’m looking to collaborate on **any live project**.If you have any idea and you think I can help you with that, then just let me know. Admittedly, I will help you.
+- 🤝 I’m open to collaborate on **any live project**.<br> 
+  If you have any idea and you think I can help you with that, then just let me know. 
      
 <a href="https://github.com/Rishi-121/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
