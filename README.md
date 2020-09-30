@@ -59,7 +59,9 @@
      
 <a href="https://github.com/Rishi-121/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
-</a>
+</a> 
+
+<br>
 
 <details>
 
