@@ -62,9 +62,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
 </a> 
 
-<br>
-
 <details>
+  
+<br>
 
 <summary>📈 My GitHub Stats</summary>
 
