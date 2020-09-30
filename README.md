@@ -36,9 +36,6 @@
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
 * **Former Internshala Student Partner 14 @Internshala**
 
-- 😊 I’m looking for help with **getting internships**
-- 🤝 I’m looking to collaborate on **any live project**
-
 <img align="right" height="50%" width="50%" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 - 💬 Ask me about :
@@ -48,6 +45,8 @@
 
 - 😄 Pronouns: 
      * **A Night Coder 🐱‍👤**
+
+- 🤝 I’m looking to collaborate on **any live project**.If you have any idea and you think I can help you with that, then just let me know. Admittedly, I will help you.
      
 <a href="https://github.com/Rishi-121/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
