@@ -36,18 +36,23 @@
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
 * **Former Internshala Student Partner 14 @Internshala**
 
+### Languages and Tools:-
+
+<code><img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="HTML 5"></code>
+<code><img src="https://cdn.svgporn.com/logos/css-3.svg" height="30" alt="CSS 3"></code>
+<code><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="30" alt="Bootstrap"></code>
+<code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
+<code><img src="https://cdn.svgporn.com/logos/jquery.svg" height="30" alt="jQuery"></code>
+<code><img src="https://cdn.svgporn.com/logos/php.svg" height="30" alt="PHP"></code>
+<code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL Database"></code>
+<code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="git"></code>
+
 <img align="right" height="50%" width="50%" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
-- 💬 Ask me about :
-     * **How is my life going? 😉**
-     * **Python || Java || JavaScript || C/C++**
-     * **Full Stack Web Development**
-
+    
 - 😄 Pronouns: 
      * **A Night Coder 🐱‍👤**
 
-- 🤝 I’m open to collaborate on **any live project**.<br> 
-  If you have any idea and you think I can help you with that, then just let me know. 
+- 🤝 I’m open to collaborate on **any live project**.
      
 <a href="https://github.com/Rishi-121/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
