@@ -38,14 +38,17 @@
 
 ### Languages and Tools:-
 
-<code><img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="HTML 5"></code>
-<code><img src="https://cdn.svgporn.com/logos/css-3.svg" height="30" alt="CSS 3"></code>
+<code><img src="https://cdn.svgporn.com/logos/html-5.svg" height="40" alt="HTML 5"></code>
+<code><img src="https://cdn.svgporn.com/logos/css-3.svg" height="40" alt="CSS 3"></code>
 <code><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="30" alt="Bootstrap"></code>
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
+<code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
+<code><img src="https://cdn.svgporn.com/logos/java.svg" height="30" alt="Java"></code>
 <code><img src="https://cdn.svgporn.com/logos/jquery.svg" height="30" alt="jQuery"></code>
 <code><img src="https://cdn.svgporn.com/logos/php.svg" height="30" alt="PHP"></code>
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL Database"></code>
-<code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="git"></code>
+<code><img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git"></code>
+<code><img src="https://cdn.svgporn.com/logos/xampp.svg" height="30" alt="XAMPP"></code>
 
 <img align="right" height="50%" width="50%" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
     
