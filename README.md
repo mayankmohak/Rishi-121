@@ -63,8 +63,6 @@
 </a> 
 
 <details>
-  
-<br>
 
 <summary>📈 My GitHub Stats</summary>
 
