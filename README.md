@@ -50,8 +50,6 @@
 <code><img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git"></code>
 <code><img src="https://cdn.svgporn.com/logos/xampp.svg" height="30" alt="XAMPP"></code>
 <code><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30" alt="Visual Studio Code"></code>
-
-<img align="right" height="50%" width="50%" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
     
 - 😄 Pronouns: 
      * **A Night Coder 🐱‍👤**
@@ -62,12 +60,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&theme=radical" />
 </a> 
 
-<details>
-
-<summary>📈 My GitHub Stats</summary>
-
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical" alt="Hrushikesh's github stats"/>
 </a>
-
-</details>
