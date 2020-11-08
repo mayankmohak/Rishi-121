@@ -30,10 +30,10 @@
 
 ### Work Experiences :-
 
-* **Mentor of the [Hack the Mountain's](https://www.hackthemountain.tech/) Hackathon**
-* **Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
+* **Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)**
 * **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
+* **Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
 * **Former Internshala Student Partner 14 @Internshala**
 
 ### Languages and Tools:-
