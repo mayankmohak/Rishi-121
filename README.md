@@ -56,8 +56,11 @@
 
 - 🤝 I’m open to collaborate on **any live project**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/Rishi-121/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical" alt="Hrushikesh's github stats"/>
+<a href="https://github.com/Rishi-121">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical">
 </a>
+
+<a href="https://github.com/Rishi-121">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
+</a>
+
