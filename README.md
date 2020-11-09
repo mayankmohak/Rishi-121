@@ -61,6 +61,6 @@
 </a>
 
 <a href="https://github.com/Rishi-121">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a>
 
