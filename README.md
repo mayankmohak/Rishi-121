@@ -31,6 +31,7 @@
 ### Work Experiences :-
 
 * **Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)**
+* **Organizer Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade**
 * **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
 * **Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
