@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I am HRUSHIKESH DAS 🤵
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I am HRUSHIKESH DAS 👨‍💻
 
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
   <img align="left" alt="Hrushikesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
