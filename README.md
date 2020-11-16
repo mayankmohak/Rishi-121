@@ -28,10 +28,11 @@
 ### Work Experiences :-
 
 * **Web Developer @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)**
-* **Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)**
+* **Web Developer @[Webizy IT Solutions](https://webizysolutions.com/)**
 * **Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade**
 * **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
 * **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
+* **Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)**
 * **Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
 * **Former Internshala Student Partner 14 @Internshala**
 
