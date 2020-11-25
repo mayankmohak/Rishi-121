@@ -49,6 +49,10 @@
 <code><img src="https://cdn.svgporn.com/logos/mongodb.svg" height="30" alt="MongoDB"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
     
+<a href="https://github.com/Rishi-121">
+  <img align="right" height="20%" width="20%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</a>    
+    
 - 😄 Pronouns: 
      * **A Night Coder 🐱‍👤**
 
@@ -61,4 +65,3 @@
 <a href="https://github.com/Rishi-121">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a>
-
