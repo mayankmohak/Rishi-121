@@ -25,18 +25,16 @@
 
 * **_Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)_**
 
-<!--
 ### Work Experiences :-
 
-* **Web Developer @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)**
-* **Web Developer @[Webizy IT Solutions](https://webizysolutions.com/)**
-* **Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade**
-* **Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade**
-* **Member of [Odisha Oracle Users Group](https://odishaoug.in/)**
-* **Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)**
-* **Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)**
-* **Former Internshala Student Partner 14 @Internshala**
--->
+* _Web Developer @ArreBeta Pvt. Ltd._
+* _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
+* _Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
+* _Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade_
+* _Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
+* _Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)_
+* _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
+* _Former Internshala Student Partner 14 @Internshala_
 
 ### Tech Stack:-
 
