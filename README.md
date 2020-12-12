@@ -57,7 +57,7 @@
 - 🤝 I’m open to collaborate on **any project**.
 
 <a href="https://github.com/Rishi-121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical&langs_count=8&hide=html,css,hack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical&langs_count=8&hide=html,css">
 </a>
 
 <a href="https://github.com/Rishi-121">
