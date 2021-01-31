@@ -27,7 +27,8 @@
 
 ### Work Experiences :-
 
-* _Web Developer @ArreBeta Pvt. Ltd._
+* _Web Developer Intern @[Best Enlist](http://bestenlist.co.in)._
+* _Python Development Intern @[Best Enlist](http://bestenlist.co.in)._
 * _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
 * _Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
 * _Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade_
