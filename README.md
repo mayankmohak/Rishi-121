@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I am HRUSHIKESH DAS 👨‍💻
+# _Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I am HRUSHIKESH DAS 👨‍💻_
 
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
   <img align="left" alt="Hrushikesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,15 +17,15 @@
 </a>
 <br>
 
-### About Me :-
+### _About Me :-_
 
 **_I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. With a clear vision of my goal, I always try to be an innovative developer and committed to strengthening my abilities by serving my skills in society and working as a collaborative team person._**
 
-### Education :-
+### _Education :-_
 
 * **_Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)_**
 
-### Work Experiences :-
+### _Work Experiences :-_
 
 * _Web Developer Intern @[Best Enlist](http://bestenlist.co.in)._
 * _Python Development Intern @[Best Enlist](http://bestenlist.co.in)._
@@ -37,7 +37,7 @@
 * _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
 * _Former Internshala Student Partner 14 @Internshala_
 
-### Tech Stack:-
+### _Tech Stack:-_
 
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
