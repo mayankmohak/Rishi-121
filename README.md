@@ -62,6 +62,10 @@
 <a href="https://github.com/Rishi-121">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=jolly">
 </a> 
-    
-![Dino](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/dino.gif)
+
+# _**Sad Day? Let's bring a Smile on your Face :wink:**_
+
+<p align="center">
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+</p>
     
