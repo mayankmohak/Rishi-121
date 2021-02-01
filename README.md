@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/GitHub%20Header.png">
+![MastHead](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/GitHub%20Header.png)
 
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
   <img align="left" alt="Hrushikesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,11 +18,11 @@
 
 ### _About Me :-_
 
-**_I am 👨‍💻 Full Stack Web Developer, 🎨 Graphics Designer, 🖋 Content Writer, 👨‍🏫 Mentor._**
+**I am 👨‍💻 Full Stack Web Developer, 🎨 Graphics Designer, 🖋 Content Writer, 👨‍🏫 Mentor.**
 
 ### _Education :-_
 
-* **_Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)_**
+* **Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)**
 
 <a href="https://github.com/Rishi-121">
   <img align="right" height="30%" width="30%" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif">
@@ -30,15 +30,15 @@
 
 ### _Work Experiences :-_
 
-* _Web Developer Intern @[Best Enlist](http://bestenlist.co.in)._
-* _Python Development Intern @[Best Enlist](http://bestenlist.co.in)._
-* _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
-* _Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
-* _Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade_
-* _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
-* _Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)_
-* _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
-* _Former Internshala Student Partner 14 @Internshala_
+* Web Developer Intern @[Best Enlist](http://bestenlist.co.in).
+* Python Development Intern @[Best Enlist](http://bestenlist.co.in).
+* Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)
+* Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade
+* Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade
+* Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)
+* Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)
+* Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)
+* Former Internshala Student Partner 14 @Internshala
 
 ### _Tech Stack:-_
 
@@ -51,14 +51,5 @@
 <code><img src="https://cdn.svgporn.com/logos/mongodb.svg" height="30" alt="MongoDB"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
     
-<a href="https://github.com/Rishi-121">
-  <img align="right" height="30%" width="30%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-</a>    
-   
-<a href="https://github.com/Rishi-121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical&langs_count=8&hide=html,css">
-</a>
-
-<a href="https://github.com/Rishi-121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
-</a>
+![Dino](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/dino.gif)
+    
