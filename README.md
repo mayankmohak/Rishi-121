@@ -18,7 +18,7 @@
 
 ### _About Me :-_
 
-**_I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. With a clear vision of my goal, I always try to be an innovative developer and committed to strengthening my abilities by serving my skills in society and working as a collaborative team person._**
+**_I am 👨‍💻 Full Stack Web Developer, 🎨 Graphics Designer, 🖋 Content Writer, 👨‍🏫 Mentor._**
 
 ### _Education :-_
 
@@ -54,12 +54,7 @@
 <a href="https://github.com/Rishi-121">
   <img align="right" height="30%" width="30%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </a>    
-    
-- 😄 Pronouns: 
-     * **A Night Coder 🐱‍👤**
-
-- 🤝 I’m open to collaborate on **any project**.
-
+   
 <a href="https://github.com/Rishi-121">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical&langs_count=8&hide=html,css">
 </a>
