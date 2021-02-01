@@ -50,6 +50,8 @@
 <code><img src="https://cdn.svgporn.com/logos/mongodb.svg" height="30" alt="MongoDB"></code>
 <code><img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="Reactjs"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
+<code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
+<code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
     
 ![Dino](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/dino.gif)
     
