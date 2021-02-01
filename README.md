@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />
 </a>
 <a href="https://github.com/Rishi-121/">
- <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
+ <img src="https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103" alt="Open Source Love"/>
 </a> 
 
 ### _About Me :-_
