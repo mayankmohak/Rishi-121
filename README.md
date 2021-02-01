@@ -18,14 +18,14 @@
 
 ### _About Me :-_
 
-**I am 👨‍💻 Full Stack Web Developer, 🎨 Graphics Designer, 🖋 Content Writer, 👨‍🏫 Mentor.**
+ I am 👨‍💻 Full Stack Web Developer, 🎨 Graphics Designer, 🖋 Content Writer, 👨‍🏫 Mentor.
 
 ### _Education :-_
 
-* **Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)**
+ Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)
 
 <a href="https://github.com/Rishi-121">
-  <img align="right" height="30%" width="30%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+  <img align="right" height="25%" width="25%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </a> 
 
 ### _Work Experiences :-_
