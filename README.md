@@ -1,4 +1,4 @@
-# _Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I am HRUSHIKESH DAS 👨‍💻_
+<img src="https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/GitHub%20Header.png">
 
 <a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
   <img align="left" alt="Hrushikesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,7 +15,6 @@
 <a href="https://github.com/Rishi-121/">
  <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
 </a>
-<br>
 
 ### _About Me :-_
 
