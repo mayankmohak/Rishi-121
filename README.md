@@ -25,7 +25,7 @@
 * **Pursuing B.tech on the domain of CSE 🖥 @[Gandhi Institute of Engineering and Technology University, Gunupur](https://www.giet.edu/)**
 
 <a href="https://github.com/Rishi-121">
-  <img align="right" height="30%" width="30%" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif">
+  <img align="right" height="30%" width="30%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </a> 
 
 ### _Work Experiences :-_
