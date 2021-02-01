@@ -52,6 +52,16 @@
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
 <code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
+
+<br />
+
+<a href="https://github.com/Rishi-121">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=jolly&langs_count=8&hide=html,css">
+</a>
+
+<a href="https://github.com/Rishi-121">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=jolly">
+</a> 
     
 ![Dino](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/dino.gif)
     
