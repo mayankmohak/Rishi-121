@@ -18,11 +18,11 @@
 
 ### _About Me :-_
 
- I am 👨‍💻 Full Stack Web Developer, 🎨 Graphics Designer, 🖋 Content Writer, 👨‍🏫 Mentor.
+ **_I am Full Stack JS Web Developer, Graphics Designer, Content Writer, Mentor._**
 
 ### _Education :-_
 
- Pursuing B.tech on the domain of CSE 🖥 @[GIET University, Gunupur](https://www.giet.edu/)
+ **_Pursuing B.tech on the domain of CSE 🖥 @[GIET University, Gunupur](https://www.giet.edu/)_**
 
 <a href="https://github.com/Rishi-121">
   <img align="right" height="25%" width="25%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
@@ -30,15 +30,15 @@
 
 ### _Work Experiences :-_
 
-* Web Developer Intern @[Best Enlist](http://bestenlist.co.in).
-* Python Development Intern @[Best Enlist](http://bestenlist.co.in).
-* Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)
-* Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade
-* Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade
-* Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)
-* Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)
-* Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)
-* Former Internshala Student Partner 14 @Internshala
+* _Web Developer Intern @[Best Enlist](http://bestenlist.co.in)_
+* _Python Development Intern @[Best Enlist](http://bestenlist.co.in)_
+* _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
+* _Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
+* _Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade_
+* _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
+* _Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)_
+* _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
+* _Former Internshala Student Partner 14 @Internshala_
 
 ### _Tech Stack:-_
 
