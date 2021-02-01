@@ -1,20 +1,20 @@
 ![MastHead](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/GitHub%20Header.png)
 
-<a href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
-  <img align="left" alt="Hrushikesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a target="_blank" href="https://twitter.com/Hrushikeshdas18">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:dashrushikesh1121@gmail.com?subject=Hello%20Hrushikesh,%20From%20Github">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/hrushikesh_das_official/">
-  <img align="left" alt="Hrushikesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/hrushikesh.das.566/">
-  <img align="left" alt="Hrushikesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="mailto:dashrushikesh1121@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />
 </a>
 <a href="https://github.com/Rishi-121/">
- <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
-</a>
+ <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
+</a> 
 
 ### _About Me :-_
 
