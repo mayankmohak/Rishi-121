@@ -56,11 +56,11 @@
 <br />
 
 <a href="https://github.com/Rishi-121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=jolly&langs_count=8&hide=html,css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-121&layout=compact&theme=radical&langs_count=8&hide=html,css">
 </a>
 
 <a href="https://github.com/Rishi-121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=jolly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a> 
 
 # _**Sad Day? Let's bring a Smile on your Face :wink:**_
