@@ -16,11 +16,11 @@
  <img src="https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103" alt="Open Source Love"/>
 </a> 
 
-### _About Me :-_
+### _About Me :_
 
  **_I am Full Stack JS Web Developer, Graphics Designer, Content Writer, Mentor._**
 
-### _Education :-_
+### _Education :_
 
  **_Pursuing B.tech on the domain of CSE 🖥 @[GIET University, Gunupur](https://www.giet.edu/)_**
 
@@ -28,7 +28,7 @@
   <img align="right" height="25%" width="25%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </a> 
 
-### _Work Experiences :-_
+### _Work Experiences :_
 
 * _Web Developer Intern @[Best Enlist](http://bestenlist.co.in)_
 * _Python Development Intern @[Best Enlist](http://bestenlist.co.in)_
@@ -40,7 +40,7 @@
 * _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
 * _Former Internshala Student Partner 14 @Internshala_
 
-### _Tech Stack:-_
+### _Tech Stack:_
 
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
@@ -63,7 +63,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a> 
 
-# _**Sad Day? Let's bring a Smile on your Face :wink:**_
+### _**Sad Day? Let's bring a Smile on your Face :wink:**_
 
 <p align="center">
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
