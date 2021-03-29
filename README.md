@@ -18,7 +18,7 @@
 
 ### _About Me :_
 
- **_I am Full Stack JS Web Developer, Flutter Developer, Mentor._**
+**_My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutter developer 📱, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software development. I believe in the power of community and love community-based learning._**
 
 ### _Education :_
 
