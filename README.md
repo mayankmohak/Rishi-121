@@ -39,7 +39,7 @@
 * _Former Web Developer Intern (In-house Internship Program) @[TCET, Mumbai](https://www.tcetmumbai.in/)_
 * _Former Internshala Student Partner 14 @Internshala_
 
-### _Voluntary Experience :_
+### _Voluntary Experiences :_
 
 * _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
 * _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
