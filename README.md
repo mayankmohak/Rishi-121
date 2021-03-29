@@ -18,7 +18,7 @@
 
 ### _About Me :_
 
- **_I am Full Stack JS Web Developer, Graphics Designer, Content Writer, Mentor._**
+ **_I am Full Stack JS Web Developer, Flutter Developer, Mentor._**
 
 ### _Education :_
 
@@ -30,28 +30,37 @@
 
 ### _Work Experiences :_
 
-* _Web Developer Intern @[Best Enlist](http://bestenlist.co.in)_
-* _Python Development Intern @[Best Enlist](http://bestenlist.co.in)_
-* _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
-* _Organizing Team Member of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
-* _Voluntary Contribution to the [BWLU](https://letsupgrade.in/BWLU/) project @LetsUpgrade_
-* _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
+* _Project Intern @[Utility Ware](http://utilityware.co/)_
+* _Former Web Developer Intern @[Best Enlist](http://bestenlist.co.in)_
+* _Former Python Development Intern @[Best Enlist](http://bestenlist.co.in)_
 * _Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)_
 * _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
+* _Voluntary Contributor[BWLU](https://letsupgrade.in/BWLU/) @LetsUpgrade_
+* _Former Web Developer Intern (In-house Internship Program) @[TCET, Mumbai](https://www.tcetmumbai.in/)_
 * _Former Internshala Student Partner 14 @Internshala_
+
+### _Voluntary Experience :_
+
+* _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
+* _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
+* _Member of Organizer[HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
 
 ### _Tech Stack:_
 
+
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
+<code><img src="https://cdn.svgporn.com/logos/dart.svg" height="30" alt="Dart"></code>
 <code><img src="https://cdn.svgporn.com/logos/php.svg" height="30" alt="PHP"></code>
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
 <code><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs"></code>
 <code><img src="https://cdn.svgporn.com/logos/mongodb.svg" height="30" alt="MongoDB"></code>
 <code><img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="Reactjs"></code>
+<code><img src="https://cdn.svgporn.com/logos/flutter.svg" height="30" alt="Flutter"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
 <code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
+<code><img src="https://cdn.svgporn.com/logos/azure.svg" height="30" alt="Azure"></code>
 
 <br />
 
@@ -63,9 +72,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a> 
 
+<!--
 ### _**Sad Day? Let's bring a Smile on your Face :wink:**_
 
 <p align="center">
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
+
+-->
     
