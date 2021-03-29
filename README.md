@@ -43,7 +43,7 @@
 
 * _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
 * _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
-* _Member of Organizer[HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
+* _Member of Organizer-team of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
 
 ### _Tech Stack:_
 
@@ -72,9 +72,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a> 
 
-### _**Sad Day? Let's bring a Smile on your Face :wink:**_
+<!-- ### _**Sad Day? Let's bring a Smile on your Face :wink:**_
 
 <p align="center">
   
 </p>
     
+-->
