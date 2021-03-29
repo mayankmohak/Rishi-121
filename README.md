@@ -35,7 +35,7 @@
 * _Former Python Development Intern @[Best Enlist](http://bestenlist.co.in)_
 * _Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)_
 * _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
-* _Voluntary Contributor[BWLU](https://letsupgrade.in/BWLU/) @LetsUpgrade_
+* _Voluntary Contributor @[LetsUpgrade Edtech Pvt. Ltd](http://letsupgrade.in/)_
 * _Former Web Developer Intern (In-house Internship Program) @[TCET, Mumbai](https://www.tcetmumbai.in/)_
 * _Former Internshala Student Partner 14 @Internshala_
 
@@ -72,12 +72,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi-121&show_icons=true&theme=radical">
 </a> 
 
-<!--
 ### _**Sad Day? Let's bring a Smile on your Face :wink:**_
 
 <p align="center">
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+  
 </p>
-
--->
     
