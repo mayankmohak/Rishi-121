@@ -48,7 +48,9 @@
 ### _Tech Stack:_
 
 <code><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="30" alt="Bootstrap"></code>
+<code><img src="https://cdn.svgporn.com/logos/materializecss.svg" height="30" alt="Materialize CSS"></code>
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
+<code><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="TypeScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
 <code><img src="https://cdn.svgporn.com/logos/dart.svg" height="30" alt="Dart"></code>
 <code><img src="https://cdn.svgporn.com/logos/php.svg" height="30" alt="PHP"></code>
@@ -63,6 +65,8 @@
 <code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
 <code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
 <code><img src="https://cdn.svgporn.com/logos/twilio.svg" height="30" alt="Twilio"></code>
+<code><img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="Ubuntu"></code>
+
 
 <br />
 
