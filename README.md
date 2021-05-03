@@ -48,19 +48,17 @@
 ### _Tech Stack:_
 
 <code><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="30" alt="Bootstrap"></code>
-<code><img src="https://cdn.svgporn.com/logos/materializecss.svg" height="30" alt="Materialize CSS"></code>
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="TypeScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
-<code><img src="https://cdn.svgporn.com/logos/dart.svg" height="30" alt="Dart"></code>
 <code><img src="https://cdn.svgporn.com/logos/php.svg" height="30" alt="PHP"></code>
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
 <code><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs"></code>
+<code><img src="https://cdn.svgporn.com/logos/passport.svg" height="30" alt="Passportjs"></code>
 <code><img src="https://cdn.svgporn.com/logos/mongodb.svg" height="30" alt="MongoDB"></code>
 <code><img src="https://cdn.svgporn.com/logos/postman.svg" height="30" alt="Postman"></code>
 <code><img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="Reactjs"></code>
 <code><img src="https://cdn.svgporn.com/logos/react-router.svg" height="30" alt="React-Router"></code>
-<code><img src="https://cdn.svgporn.com/logos/flutter.svg" height="30" alt="Flutter"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
 <code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
