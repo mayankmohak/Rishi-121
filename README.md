@@ -63,4 +63,5 @@
 <code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
 <code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
 <code><img src="https://cdn.svgporn.com/logos/twilio.svg" height="30" alt="Twilio"></code>
+<code><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30" alt="Visual Studio Code"></code>
 <code><img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="Ubuntu"></code>
