@@ -60,6 +60,7 @@
 <code><img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="Reactjs"></code>
 <code><img src="https://cdn.svgporn.com/logos/react-router.svg" height="30" alt="React-Router"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
+<code><img src="https://cdn.svgporn.com/logos/markdown.svg" height="30" alt="Markdown"></code>
 <code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
 <code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
 <code><img src="https://cdn.svgporn.com/logos/twilio.svg" height="30" alt="Twilio"></code>
