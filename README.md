@@ -66,3 +66,5 @@
 <code><img src="https://cdn.svgporn.com/logos/twilio.svg" height="30" alt="Twilio"></code>
 <code><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30" alt="Visual Studio Code"></code>
 <code><img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="Ubuntu"></code>
+
+![Dino](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/dino.gif)
