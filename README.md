@@ -1,70 +1,48 @@
 ![MastHead](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/GitHub%20Header.png)
 
-<a target="_blank" href="https://www.linkedin.com/in/hrushikesh-das-468101171/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a target="_blank" href="https://twitter.com/Hrushikeshdas18">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:dashrushikesh1121@gmail.com?subject=Hello%20Hrushikesh,%20From%20Github">
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/hrushikesh_das_official/">
-  <img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />
-</a>
-<a href="https://github.com/Rishi-121/">
- <img src="https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103" alt="Open Source Love"/>
-</a> 
+<h2 align="center"> 👨‍💻 Who am I?</h2>
 
-### _About Me :_
+<p align="center">
 
-**_My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutter developer 📱, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software development. I believe in the power of community and love community-based learning._**
+ <samp>
+   I am a Junior Year Student at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm an intern at Webizy IT Solutions as a Backend Developer. I'm deeply passionate about software development.
+</samp> <br/><br/>
 
-### _Education :_
+<img src="https://komarev.com/ghpvc/?username=Rishi-121" alt="Rishi-121" /> 
 
- **_Pursuing B.tech on the domain of CSE 🖥 @[GIET University, Gunupur](https://www.giet.edu/)_**
+</p> 
 
-<a href="https://github.com/Rishi-121">
-  <img align="right" height="25%" width="25%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-</a> 
+<h2 align="center"> 🔭 Technology Stack</h2>
 
-### _Work Experiences :_
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/netlify%20-%231572B6.svg?&style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/twilio%20-%231572B6.svg?&style=for-the-badge&logo=twilio&logoColor=red" />&nbsp;&nbsp; 
+</p>
 
-* _Project Intern @[Utility Ware](http://utilityware.co/)_
-* _Former Web Developer Intern @[Best Enlist](http://bestenlist.co.in)_
-* _Former Python Development Intern @[Best Enlist](http://bestenlist.co.in)_
-* _Former Web Developer Intern @[Webizy IT Solutions](https://webizysolutions.com/)_
-* _Former Web Developer Intern @[The Renal Project](https://www.therenalproject.com/)_
-* _Voluntary Contributor @[LetsUpgrade Edtech Pvt. Ltd](http://letsupgrade.in/)_
-* _Former Web Developer Intern (In-house Internship Program) @[TCET, Mumbai](https://www.tcetmumbai.in/)_
-* _Former Internshala Student Partner 14 @Internshala_
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rishi-121&layout=compact&hide=html&theme=jolly" alt="Rishi-121" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-### _Voluntary Experiences :_
 
-* _Student Member of [Odisha Oracle Users Group](https://odishaoug.in/)_
-* _Web Developer & Core Team Member @[GirlScript Gunupur](https://girlscript-gunupur.web.app/)_
-* _Member of Organizer-team of [HWLU Hackathon](https://letsupgrade.in/hack/) @LetsUpgrade_
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/hrushikesh-das-468101171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Hrushikeshdas18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dashrushikesh1121@gmail.com?subject=Hello%20Hrushikesh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hrushikesh_das_official/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-### _Tech Stack:_
-
-<code><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="30" alt="Bootstrap"></code>
-<code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
-<code><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="TypeScript"></code>
-<code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
-<code><img src="https://cdn.svgporn.com/logos/php.svg" height="30" alt="PHP"></code>
-<code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
-<code><img src="https://cdn.svgporn.com/logos/nodejs.svg" height="30" alt="Nodejs"></code>
-<code><img src="https://cdn.svgporn.com/logos/passport.svg" height="30" alt="Passportjs"></code>
-<code><img src="https://cdn.svgporn.com/logos/mongodb.svg" height="30" alt="MongoDB"></code>
-<code><img src="https://cdn.svgporn.com/logos/postman.svg" height="30" alt="Postman"></code>
-<code><img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="Reactjs"></code>
-<code><img src="https://cdn.svgporn.com/logos/react-router.svg" height="30" alt="React-Router"></code>
-<code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
-<code><img src="https://cdn.svgporn.com/logos/markdown.svg" height="30" alt="Markdown"></code>
-<code><img src="https://cdn.svgporn.com/logos/heroku.svg" height="30" alt="Heroku"></code>
-<code><img src="https://cdn.svgporn.com/logos/netlify.svg" height="30" alt="Netlify"></code>
-<code><img src="https://cdn.svgporn.com/logos/twilio.svg" height="30" alt="Twilio"></code>
-<code><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30" alt="Visual Studio Code"></code>
-<code><img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="Ubuntu"></code>
-
-![Dino](https://raw.githubusercontent.com/Rishi-121/Rishi-121/master/dino.gif)
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
